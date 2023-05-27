@@ -7,5 +7,5 @@ A Music Bot using Lavalink allowing users to create playlists of songs from yout
   - DISCORD_TOKEN=your token
   - SPOTIFY_ID=your spotify api id
   - SPOTIFY_SECRET=your spotify secret
-- Once the lavalink server is running (java -jar Lavalink.jar with a supported java version), start the bot using python 3.8 or later.
+- Once the lavalink server is running (java -jar Lavalink.jar) with a supported java version), start the bot using python 3.8 or later.
 - Enjoy!
