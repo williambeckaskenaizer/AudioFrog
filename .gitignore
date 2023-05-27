@@ -1,0 +1,9 @@
+.env
+.\virtualenv\
+/etc
+/lib
+/share
+/virtualenv
+/__pycache__
+/bin
+/lib64
