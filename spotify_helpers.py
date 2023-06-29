@@ -65,13 +65,6 @@ def get_playlist_items(token, playlist):
         tracks.extend(items)
         next_url = data.get('next')
     return tracks
-    # url = f"https://api.spotify.com/v1/playlists/{playlist}"
-    # headers = {
-    #     "Authorization":"Bearer " + token,
-    #     "Content-Type": "application/json"
-    # }
-    # result = get(url, headers=headers)
-    # return result.json()
     
 def process_playlist(playlist):
     songs = []
